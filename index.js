@@ -2,7 +2,7 @@ window.onload = () => {
     console.log("Hola excusa");
 
     // completar listas de partes de la excusa
-    let who = ["mi padre", "mi madre", "mi gato", "mi tortuga", "mi abuela"];
+    let who = ["Mi padre", "Mi madre", "Mi gato", "Mi tortuga", "Mi abuela"];
     let action = ["se estrelló", "se robó", "me quitó", "se llevó", "no quiso jugar"];
     let what = ["mi tarea", "mi gata", "la plata que me gané trabajando", "mi uniforme"];
     let when = ["en la noche", "antes desayunar", "de madrugada", "en la tarde", "cuando le dio la gana"];
